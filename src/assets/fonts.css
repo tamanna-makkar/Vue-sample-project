@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'DM sans';
+  src: url('@/assets/fonts/DMSans-VariableFont_opsz,wght.ttf');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: 'DM sans Medium';
+  src: url('@/assets/fonts/static/DMSans-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap
+}
